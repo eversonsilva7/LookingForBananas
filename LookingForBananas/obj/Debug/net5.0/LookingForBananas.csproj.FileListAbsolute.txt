@@ -1,0 +1,16 @@
+D:\DEVELOPER\Fielo_Exam\LookingForBananas\LookingForBananas\bin\Debug\net5.0\LookingForBananas.exe
+D:\DEVELOPER\Fielo_Exam\LookingForBananas\LookingForBananas\bin\Debug\net5.0\LookingForBananas.deps.json
+D:\DEVELOPER\Fielo_Exam\LookingForBananas\LookingForBananas\bin\Debug\net5.0\LookingForBananas.runtimeconfig.json
+D:\DEVELOPER\Fielo_Exam\LookingForBananas\LookingForBananas\bin\Debug\net5.0\LookingForBananas.runtimeconfig.dev.json
+D:\DEVELOPER\Fielo_Exam\LookingForBananas\LookingForBananas\bin\Debug\net5.0\LookingForBananas.dll
+D:\DEVELOPER\Fielo_Exam\LookingForBananas\LookingForBananas\bin\Debug\net5.0\ref\LookingForBananas.dll
+D:\DEVELOPER\Fielo_Exam\LookingForBananas\LookingForBananas\bin\Debug\net5.0\LookingForBananas.pdb
+D:\DEVELOPER\Fielo_Exam\LookingForBananas\LookingForBananas\obj\Debug\net5.0\LookingForBananas.csproj.AssemblyReference.cache
+D:\DEVELOPER\Fielo_Exam\LookingForBananas\LookingForBananas\obj\Debug\net5.0\LookingForBananas.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVELOPER\Fielo_Exam\LookingForBananas\LookingForBananas\obj\Debug\net5.0\LookingForBananas.AssemblyInfoInputs.cache
+D:\DEVELOPER\Fielo_Exam\LookingForBananas\LookingForBananas\obj\Debug\net5.0\LookingForBananas.AssemblyInfo.cs
+D:\DEVELOPER\Fielo_Exam\LookingForBananas\LookingForBananas\obj\Debug\net5.0\LookingForBananas.csproj.CoreCompileInputs.cache
+D:\DEVELOPER\Fielo_Exam\LookingForBananas\LookingForBananas\obj\Debug\net5.0\LookingForBananas.dll
+D:\DEVELOPER\Fielo_Exam\LookingForBananas\LookingForBananas\obj\Debug\net5.0\ref\LookingForBananas.dll
+D:\DEVELOPER\Fielo_Exam\LookingForBananas\LookingForBananas\obj\Debug\net5.0\LookingForBananas.pdb
+D:\DEVELOPER\Fielo_Exam\LookingForBananas\LookingForBananas\obj\Debug\net5.0\LookingForBananas.genruntimeconfig.cache
